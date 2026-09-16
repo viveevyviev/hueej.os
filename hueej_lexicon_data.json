@@ -1,0 +1,709 @@
+[
+  {
+    "id": 69,
+    "word": "69",
+    "alpha_key": "ə",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ / Danh từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "(1) Quan hệ tình dục hai người nằm ngược chiều kích thích cơ quan sinh dục của nhau.",
+      "(2) Chỉ người song tính (Bisexual)."
+    ],
+    "examples": ["Mình cùng 69 nha!"],
+    "etymology": "Tượng hình số 69 mô phỏng tư thế cơ thể."
+  },
+  {
+    "id": 419,
+    "word": "419",
+    "alpha_key": "ə",
+    "pos_code": "DT",
+    "pos_label": "Danh từ / Thuật ngữ app",
+    "tag": "Identity",
+    "definitions": [
+      "Chỉ tình một đêm."
+    ],
+    "examples": ["Hôm qua là 419 thôi, không dây dưa."],
+    "etymology": "Đồng âm tiếng Anh: Four-One-Nine = For One Night."
+  },
+  {
+    "id": 101,
+    "word": "Aftercare",
+    "alpha_key": "ə",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ / Danh từ",
+    "tag": "Identity",
+    "definitions": [
+      "Hoạt động chăm sóc thể xác và vỗ về cảm xúc của bạn tình sau cuộc chơi tình dục, đặc biệt trong BDSM để tránh cảm giác hụt hẫng (drop)."
+    ],
+    "examples": ["Sau khi quất bạo liệt thì nhớ aftercare cho kỹ."],
+    "etymology": "Thuật ngữ BDSM quốc tế được Việt hoá trong cộng đồng."
+  },
+  {
+    "id": 102,
+    "word": "Ali bạch cúc",
+    "alpha_key": "ə",
+    "pos_code": "TT",
+    "pos_label": "Tính từ",
+    "tag": "Feminine",
+    "definitions": [
+      "Trạng thái khùng khùng, điên điên, nói năng hành xử kỳ quặc."
+    ],
+    "examples": ["Bữa nay nó bị ali bạch cúc hay sao mà nhảy đổng lên vậy?"]
+  },
+  {
+    "id": 103,
+    "word": "Ali mời mơi",
+    "alpha_key": "TT",
+    "pos_code": "T.TVC",
+    "pos_label": "Thành ngữ thông tục",
+    "tag": "Feminine",
+    "definitions": [
+      "Cử chỉ lả lơi, khêu gợi, gạ gẫm công khai."
+    ],
+    "examples": ["Vừa thấy trai đẹp là ánh mắt ali mời mơi liền."]
+  },
+  {
+    "id": 104,
+    "word": "Ăn bánh mì",
+    "alpha_key": "ə̆",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Hành vi quan hệ tình dục đường miệng (blowjob/thổi kèn)."
+    ],
+    "examples": ["Đi ăn bánh mì không cưng?"]
+  },
+  {
+    "id": 105,
+    "word": "Ăn lồn",
+    "alpha_key": "ə̆",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ / Tiếng lóng",
+    "tag": "Taboo",
+    "definitions": [
+      "(1) Gặp chuyện rủi ro, bế tắc, kết quả tồi tệ ngoài ý muốn.",
+      "(2) Dùng miệng kích thích âm hộ (cunnilingus/vét máng)."
+    ],
+    "examples": [
+      "Nó mà biết được thì có mà ăn lồn!",
+      "Kỹ năng ăn lồn thượng thừa."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "Ăn chuối không lột vỏ",
+    "alpha_key": "ə̆",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Oral sex mà không kéo bao quy đầu hoặc đeo bao cao su khi oral sex."
+    ],
+    "examples": ["Thích ăn chuối bóc vỏ hơn hay ăn chuối không lột vỏ?"]
+  },
+  {
+    "id": 107,
+    "word": "Ăn thịt đồng loại",
+    "alpha_key": "ə̆",
+    "pos_code": "T.TVC",
+    "pos_label": "Thành ngữ thông tục",
+    "tag": "Identity",
+    "definitions": [
+      "Hai người queer cùng vai (hoặc chị em bóng lẹo) nảy sinh tình dục với nhau."
+    ],
+    "examples": ["Quy tắc là không được ăn thịt đồng loại nghe hôn! Chị em ăn nhau là cháy nhà."]
+  },
+  {
+    "id": 108,
+    "word": "Ăn sò",
+    "alpha_key": "ə̆",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Kích thích âm hộ phụ nữ bằng miệng/lưỡi."
+    ],
+    "examples": ["Ăn sò ăn chuối cùng tài (chỉ người song tính)."]
+  },
+  {
+    "id": 109,
+    "word": "Áo ngực bà già",
+    "alpha_key": "ə̂",
+    "pos_code": "DT",
+    "pos_label": "Danh từ",
+    "tag": "Identity",
+    "definitions": [
+      "Áo lót dáng croptop không gọng quai to, thường được người chuyển giới nam (transmasc) dùng nẹp ngực thời kỳ đầu."
+    ],
+    "examples": ["Hồi xưa chưa có binder toàn mặc áo ngực bà già."]
+  },
+  {
+    "id": 110,
+    "word": "Bánh bèo",
+    "alpha_key": "b",
+    "pos_code": "DT",
+    "pos_label": "Danh từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "(1) Chỉ nữ giới dị tính (thẳng).",
+      "(2) Chỉ người ẻo lả, mềm yếu quá mức."
+    ],
+    "examples": ["Đám bánh bèo ngồi buôn dưa lê."]
+  },
+  {
+    "id": 111,
+    "word": "Bánh cuốn",
+    "alpha_key": "b",
+    "pos_code": "N.TR",
+    "pos_label": "Nói tránh / Ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "(1) Viết tắt BC = bú cu (oral sex).",
+      "(2) Trạng thái cuốn hút, phấn khích khi dùng chất kích thích."
+    ],
+    "examples": ["Nhìn bánh cuốn ghê chưa."]
+  },
+  {
+    "id": 112,
+    "word": "Bánh mì đặc ruột",
+    "alpha_key": "b",
+    "pos_code": "DT",
+    "pos_label": "Danh từ ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Dương vật to lớn, cứng cáp và đầm tay."
+    ],
+    "examples": ["Hàng họ em này đúng chuẩn bánh mì đặc ruột."]
+  },
+  {
+    "id": 113,
+    "word": "Bàn lộn",
+    "alpha_key": "b",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Lồn bạn'."
+    ],
+    "examples": ["Toàn ngồi bàn lộn chuyện thiên hạ."],
+    "etymology": "Chỉ Bàn Lộn: Nói lái từ 'Chỉ bạn lồn'."
+  },
+  {
+    "id": 114,
+    "word": "Bê đê lồng lộn",
+    "alpha_key": "b",
+    "pos_code": "DT",
+    "pos_label": "Danh từ lóng",
+    "tag": "Identity",
+    "definitions": [
+      "Người đồng tính công khai (bóng lộ), phong cách thời trang lộng lẫy, hoạt náo, nói năng khoa trương nổi bật."
+    ],
+    "examples": ["Hội bdll đi trẩy hội."]
+  },
+  {
+    "id": 115,
+    "word": "Bóng gồng",
+    "alpha_key": "b",
+    "pos_code": "T.TVC",
+    "pos_label": "Cụm danh từ / Tính từ",
+    "tag": "Identity",
+    "definitions": [
+      "Người đồng tính cố gồng cơ bắp, tác phong nam tính để che giấu tính nữ hoặc né tránh ánh nhìn xã hội."
+    ],
+    "examples": ["Thứ bóng gồng nhìn là biết liền."]
+  },
+  {
+    "id": 116,
+    "word": "Bóng sợ lồn",
+    "alpha_key": "b",
+    "pos_code": "DT",
+    "pos_label": "Danh từ",
+    "tag": "Identity",
+    "definitions": [
+      "Thuật ngữ hài hước trong giới gay để chỉ những chàng đồng tính nam có nỗi sợ hãi hoặc né tránh bộ phận sinh dục nữ."
+    ],
+    "examples": ["Mấy bà bóng sợ lồn đi đẻ thuê nhìn cười xỉu."]
+  },
+  {
+    "id": 117,
+    "word": "Bông cúc",
+    "alpha_key": "b",
+    "pos_code": "DT",
+    "pos_label": "Danh từ ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Hậu môn của người nhận (bot) trong quan hệ đồng tính nam."
+    ],
+    "examples": ["Đâm toét bông cúc."]
+  },
+  {
+    "id": 118,
+    "word": "Biadia",
+    "alpha_key": "b",
+    "pos_code": "N.TR",
+    "pos_label": "Nói chệch",
+    "tag": "Identity",
+    "definitions": [
+      "Cách gọi biến âm của 'bê đê', mang sắc thái thân mật, tự hào trong cộng đồng."
+    ],
+    "examples": ["Biadialogy: nghệ thuật giao tiếp kiểu bia đia."]
+  },
+  {
+    "id": 119,
+    "word": "Cá chả bu",
+    "alpha_key": "c",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Cu chà bá' (dương vật rất lớn)."
+    ],
+    "examples": ["Khoe cá chả bu khắp các apps."]
+  },
+  {
+    "id": 120,
+    "word": "Chăn chuối",
+    "alpha_key": "c",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Hành vi chủ động tìm kiếm, tán tỉnh nam thanh niên trẻ để quan hệ tình dục (thường do phụ nữ hoặc bot thực hiện)."
+    ],
+    "examples": ["Chuyên gia chăn chuối có tiếng."]
+  },
+  {
+    "id": 121,
+    "word": "Chếch choạc",
+    "alpha_key": "c",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ biến âm",
+    "tag": "Taboo",
+    "definitions": [
+      "Nói tránh của từ 'chịch' (quan hệ tình dục)."
+    ],
+    "examples": ["Hẹn hò xong là đi chếch choạc."]
+  },
+  {
+    "id": 122,
+    "word": "Chu cà mo",
+    "alpha_key": "c",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của câu 'Cho mò cu'."
+    ],
+    "examples": ["I love you, chu cà mo!"]
+  },
+  {
+    "id": 123,
+    "word": "Chung vô diệm",
+    "alpha_key": "c",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Chim vô dụng' (bất lực / không cương được)."
+    ],
+    "examples": ["Tưởng ngon lành ai dè chung vô diệm."]
+  },
+  {
+    "id": 124,
+    "word": "Con đũy mồn lèo",
+    "alpha_key": "c",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái thân mật",
+    "tag": "Feminine",
+    "definitions": [
+      "Nói lái từ 'Con đĩ lồn mèo', dùng làm câu mắng yêu bạn bè thân thiết hoặc thú cưng."
+    ],
+    "examples": ["Cưng xỉu con đũy mồn lèo này."]
+  },
+  {
+    "id": 125,
+    "word": "Cụ nhang",
+    "alpha_key": "c",
+    "pos_code": "DT",
+    "pos_label": "Danh xưng trêu đùa",
+    "tag": "Feminine",
+    "definitions": [
+      "Cách gọi trêu những cô bóng già, bóng lớn tuổi hay ra vẻ đạo mạo."
+    ],
+    "examples": ["Mời cụ nhang an toạ cho tụi con nhờ."]
+  },
+  {
+    "id": 126,
+    "word": "Đá trứng cút",
+    "alpha_key": "đ",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Dùng miệng hoặc lưỡi mơn trớn tinh hoàn (bìu dái) của bạn tình."
+    ],
+    "examples": ["Kỹ năng đá trứng cút siêu êm."]
+  },
+  {
+    "id": 127,
+    "word": "Đồn lồ",
+    "alpha_key": "đ",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Đồ lồn'."
+    ],
+    "examples": ["Thứ đồn lồ ăn hại!"]
+  },
+  {
+    "id": 128,
+    "word": "Đu nai dụ bò",
+    "alpha_key": "đ",
+    "pos_code": "T.TVC",
+    "pos_label": "Thành ngữ xỉa xói",
+    "tag": "Identity",
+    "definitions": [
+      "Chỉ người đồng tính nam giả vờ làm trai thẳng để tán tỉnh, lừa gạt phụ nữ ngây thơ."
+    ],
+    "examples": ["Thứ bóng giả trai đi đu nai dụ bò."]
+  },
+  {
+    "id": 129,
+    "word": "Đêm tu đạo",
+    "alpha_key": "đ",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Đêm tao đụ'."
+    ],
+    "examples": ["Tưởng đi tu, hoá ra đêm tu đạo."]
+  },
+  {
+    "id": 130,
+    "word": "Đỗn lý",
+    "alpha_key": "đ",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Đĩ lồn'."
+    ],
+    "examples": ["Bớt cái thói đỗn lý lại."]
+  },
+  {
+    "id": 131,
+    "word": "Điệp liên tú",
+    "alpha_key": "đ",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Đụ liên tiếp'."
+    ],
+    "examples": ["Chơi bời kiểu điệp liên tú ai mà chịu nổi."]
+  },
+  {
+    "id": 132,
+    "word": "Enby",
+    "alpha_key": "e",
+    "pos_code": "DT",
+    "pos_label": "Danh từ căn tính",
+    "tag": "Identity",
+    "definitions": [
+      "Cách gọi phiên âm của NB (Non-binary: người phi nhị nguyên giới)."
+    ],
+    "examples": ["Nhóm tụi mình có cả trans lẫn enby."]
+  },
+  {
+    "id": 133,
+    "word": "Ếch ngồi lá sen",
+    "alpha_key": "e",
+    "pos_code": "DT",
+    "pos_label": "Danh từ ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Tư thế quan hệ người bot ngồi xổm dạng chân trên người top để dễ kiểm soát độ sâu và tốc độ."
+    ],
+    "examples": ["Thử thế ếch ngồi lá sen đỡ đau hẳn."]
+  },
+  {
+    "id": 134,
+    "word": "Faggot",
+    "alpha_key": "f",
+    "pos_code": "CHỬI",
+    "pos_label": "Từ miệt thị / Slur",
+    "tag": "Identity",
+    "definitions": [
+      "Thuật ngữ tiếng Anh xúc phạm người đồng tính nam, thường được cộng đồng reclaim (tái chiếm dụng)."
+    ],
+    "examples": ["Từ này chỉ người trong giới đùa với nhau, người ngoài cấm dùng."]
+  },
+  {
+    "id": 135,
+    "word": "Fen with phịch",
+    "alpha_key": "f",
+    "pos_code": "T.TVC",
+    "pos_label": "Dịch nghĩa hài hước",
+    "tag": "Identity",
+    "definitions": [
+      "Việt hóa hài hước của FWB (Friends with benefits: Bạn chịch)."
+    ],
+    "examples": ["Hai đứa là người yêu hả? Không, chỉ fen with phịch thôi."]
+  },
+  {
+    "id": 136,
+    "word": "Gei",
+    "alpha_key": "g",
+    "pos_code": "DT",
+    "pos_label": "Cách viết biến âm",
+    "tag": "Intonation",
+    "definitions": [
+      "Cách viết kéo dài hoặc điệu đà của từ Gay."
+    ],
+    "examples": ["Dậy thì thành gei."]
+  },
+  {
+    "id": 137,
+    "word": "Gạo nếp",
+    "alpha_key": "g",
+    "pos_code": "DT",
+    "pos_label": "Ẩn dụ cơ thể",
+    "tag": "Metaphor",
+    "definitions": [
+      "Dương vật khi cương không tăng nhiều về kích thước (meat grower vs show-er)."
+    ],
+    "examples": ["Chuộng gạo tẻ hơn gạo nếp."]
+  },
+  {
+    "id": 138,
+    "word": "Hà thiên lộn",
+    "alpha_key": "h",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Lồn thiên hạ' (ám chỉ kẻ lăng loàn, ai cũng cặp)."
+    ],
+    "examples": ["Thứ hạ thiên lộn cướp chồng người ta."]
+  },
+  {
+    "id": 139,
+    "word": "Hột le",
+    "alpha_key": "h",
+    "pos_code": "DT",
+    "pos_label": "Danh từ giải phẫu dân gian",
+    "tag": "Taboo",
+    "definitions": [
+      "Âm vật (Clitoris) - trung tâm khoái cảm thần kinh của nữ giới."
+    ],
+    "examples": ["Kích thích hột le đúng cách."]
+  },
+  {
+    "id": 140,
+    "word": "Hải dóng",
+    "alpha_key": "h",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Hỏng dái'."
+    ],
+    "examples": ["Đá banh coi chừng hải dóng."]
+  },
+  {
+    "id": 141,
+    "word": "Lò tôn",
+    "alpha_key": "l",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Lồn to'."
+    ],
+    "examples": ["Nhà lắp mái lò tôn mát rượi."]
+  },
+  {
+    "id": 142,
+    "word": "Lời như đồn",
+    "alpha_key": "l",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái khẩu ngữ",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Đời như lồn' (cuộc sống tồi tệ, xui xẻo)."
+    ],
+    "examples": ["Nghe tin xong thấy lời như đồn."]
+  },
+  {
+    "id": 143,
+    "word": "Lẹo cái",
+    "alpha_key": "l",
+    "pos_code": "TT",
+    "pos_label": "Tính từ miệt thị",
+    "tag": "Identity",
+    "definitions": [
+      "Từ miệt thị tính cách õng ẹo, nữ tính quá mức ở nam giới."
+    ],
+    "examples": ["Cái tướng đi lẹo cái."]
+  },
+  {
+    "id": 144,
+    "word": "Mee coo",
+    "alpha_key": "m",
+    "pos_code": "N.TR",
+    "pos_label": "Cách viết kéo dài / Biến âm",
+    "tag": "Intonation",
+    "definitions": [
+      "Cách viết biến âm và kéo dài giọng của 'Mê cu' (ham muốn tình dục nam)."
+    ],
+    "examples": ["Hội những người mee coo."]
+  },
+  {
+    "id": 145,
+    "word": "Mùi khoan thốn lưng",
+    "alpha_key": "m",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Thủng lồn' (xâm nhập thô bạo gây đau)."
+    ],
+    "examples": ["Đâm sâu quá làm mùi khoan thốn lưng."]
+  },
+  {
+    "id": 146,
+    "word": "Nắng cực",
+    "alpha_key": "n",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Nứng cặc' (hưng phấn tình dục ở nam)."
+    ],
+    "examples": ["Trời hôm nay nắng cực quá!"]
+  },
+  {
+    "id": 147,
+    "word": "Nốn lừng",
+    "alpha_key": "n",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Nứng lồn' (hưng phấn tình dục ở nữ hoặc bot)."
+    ],
+    "examples": ["Cơn nốn lừng ập tới."]
+  },
+  {
+    "id": 148,
+    "word": "Ngũ long công chúa",
+    "alpha_key": "n",
+    "pos_code": "DT",
+    "pos_label": "Danh xưng tập thể",
+    "tag": "Feminine",
+    "definitions": [
+      "Nhóm 5 người bạn thân là gay/bóng lộ đi chung với nhau trong các sự kiện."
+    ],
+    "examples": ["Hôm nay ngũ long công chúa xuất cung."]
+  },
+  {
+    "id": 149,
+    "word": "Ôn lằn",
+    "alpha_key": "o",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Ăn lồn'."
+    ],
+    "examples": ["Làm kiểu này là ôn lằn chắc rồi."]
+  },
+  {
+    "id": 150,
+    "word": "Thùi lốn",
+    "alpha_key": "t",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Lồn thúi' (chửi kẻ xấu nết, làm trò bẩn thỉu)."
+    ],
+    "examples": ["Cái quân thùi lốn ăn không nói có."]
+  },
+  {
+    "id": 151,
+    "word": "Tiểu Yến Tử",
+    "alpha_key": "t",
+    "pos_code": "DT",
+    "pos_label": "Danh từ ẩn dụ nhân vật",
+    "tag": "Feminine",
+    "definitions": [
+      "Chỉ những người bóng tính tình lăng xăng, loi nhoi, thích trêu ghẹo quậy phá khắp nơi."
+    ],
+    "examples": ["Mụ Tiểu Yến Tử tới đâu là đục nước tới đó."]
+  },
+  {
+    "id": 152,
+    "word": "Vailoneee",
+    "alpha_key": "v",
+    "pos_code": "N.TR",
+    "pos_label": "Cảm thán kéo dài",
+    "tag": "Intonation",
+    "definitions": [
+      "Kéo dài chữ và biến âm của 'Vãi lồn', biểu thị cảm xúc sốc hoặc ngạc nhiên cực độ."
+    ],
+    "examples": ["Đẹp vailoneee luôn á má!"]
+  },
+  {
+    "id": 153,
+    "word": "Vũ như cẫn",
+    "alpha_key": "v",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của 'Vẫn như cũ'."
+    ],
+    "examples": ["Tình trạng ế ẩm vũ như cẫn."]
+  },
+  {
+    "id": 154,
+    "word": "Vét máng",
+    "alpha_key": "v",
+    "pos_code": "ĐT",
+    "pos_label": "Động từ ẩn dụ",
+    "tag": "Metaphor",
+    "definitions": [
+      "Quan hệ tình dục đường miệng với âm hộ phụ nữ hoặc hậu môn của bạn tình nam."
+    ],
+    "examples": ["Vét máng điêu luyện."]
+  },
+  {
+    "id": 155,
+    "word": "Xăng pha nhớt",
+    "alpha_key": "x",
+    "pos_code": "TT",
+    "pos_label": "Tính từ ẩn dụ thời bao cấp",
+    "tag": "Identity",
+    "definitions": [
+      "Thuật ngữ miệt thị thời bao cấp chỉ người ái nam ái nữ, không rõ giới tính."
+    ],
+    "examples": ["Đồ xăng pha nhớt."]
+  },
+  {
+    "id": 156,
+    "word": "Xuất tinh riêu chá sao ví thụ!",
+    "alpha_key": "x",
+    "pos_code": "N.L",
+    "pos_label": "Nói lái câu hoàn chỉnh",
+    "tag": "Spoonerism",
+    "definitions": [
+      "Nói lái của câu 'Xuất tinh ra chiếu sao thú vị!'."
+    ],
+    "examples": ["Làm thơ: Xuất tinh riêu chá sao ví thụ!"]
+  }
+]
